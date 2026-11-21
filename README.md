@@ -1,3 +1,5 @@
 # Formation API REST
 
-:arrow_forward: [Diaporama](https://gaetan-varlet.github.io/formation-api-rest/)
+Maintenu jusqu'au 21 novembre 2026
+
+:arrow_forward: [Diaporama](https://gaetan-varlet.github.io/formation-api-rest-old/)
